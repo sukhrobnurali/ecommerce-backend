@@ -9,7 +9,6 @@ Welcome to the **Ecommerce Backend API Course** repository – a comprehensive 2
 ## Table of Contents
 - [Course Overview](#course-overview)
 - [Key Features](#key-features)
-- [Learning Outcomes](#learning-outcomes)
 - [Technologies Used](#technologies-used)
 - [UI Design](#ui-design)
 - [Resources](#resources)
@@ -37,16 +36,6 @@ This project serves as both a learning tool and a portfolio showcase. It covers 
 - **Database Management:** Uses migrations and Laravel’s Eloquent ORM for streamlined database interactions.
 - **Comprehensive Testing:** Includes a full Postman collection for API testing and documentation.
 - **Scalable Architecture:** Follows industry-standard practices for building production-ready applications.
-
----
-
-## Learning Outcomes
-By working through this course, learners will gain:
-- In-depth knowledge of Laravel and PHP best practices.
-- Hands-on experience in building secure and scalable APIs.
-- The ability to integrate backend services with modern frontend applications.
-- A solid understanding of database management and migration strategies.
-- Familiarity with API documentation and testing tools like Postman.
 
 ---
 
