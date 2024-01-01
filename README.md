@@ -1,7 +1,7 @@
 # Ecommerce Backend API Course
 <img src="assets/thumbnail.png" alt="UI Screenshot" width="600">
 
-Welcome to the **Ecommerce Backend API Course** repository – a comprehensive 25-hour course dedicated to building robust and scalable backend APIs using Laravel. This documentation and the code exemplify professional best practices suitable for senior-level PHP and Laravel development.
+Welcome to the **Ecommerce Backend API Course** repository – a comprehensive 25-hour course dedicated to building robust and scalable backend APIs using Laravel. This documentation and the code exemplify professional best practices suitable for mid-level PHP and Laravel development.
 
 
 ---
