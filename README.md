@@ -1,66 +1,142 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Ecommerce Backend API Course
+<img src="assets/thumbnail.png" alt="UI Screenshot" width="600">
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Welcome to the **Ecommerce Backend API Course** repository – a comprehensive 25-hour course dedicated to building robust and scalable backend APIs using Laravel. This documentation and the code exemplify professional best practices suitable for senior-level PHP and Laravel development.
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Table of Contents
+- [Course Overview](#course-overview)
+- [Key Features](#key-features)
+- [Learning Outcomes](#learning-outcomes)
+- [Technologies Used](#technologies-used)
+- [UI Design](#ui-design)
+- [Resources](#resources)
+- [Installation & Setup](#installation--setup)
+- [Demo](#demo)
+- [Support](#support)
+- [License](#license)
+- [Author](#author)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+---
 
-## Learning Laravel
+## Course Overview
+This project serves as both a learning tool and a portfolio showcase. It covers end-to-end backend development using Laravel, including topics such as:
+- RESTful API design
+- Authentication & Authorization
+- Database migrations and the Eloquent ORM
+- Comprehensive testing and documentation
+- Deployment best practices
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+---
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## Key Features
+- **Robust API Design:** Implements RESTful endpoints with clear separation of concerns.
+- **Secure Authentication:** Built-in mechanisms for secure user authentication and authorization.
+- **Database Management:** Uses migrations and Laravel’s Eloquent ORM for streamlined database interactions.
+- **Comprehensive Testing:** Includes a full Postman collection for API testing and documentation.
+- **Scalable Architecture:** Follows industry-standard practices for building production-ready applications.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+---
 
-## Laravel Sponsors
+## Learning Outcomes
+By working through this course, learners will gain:
+- In-depth knowledge of Laravel and PHP best practices.
+- Hands-on experience in building secure and scalable APIs.
+- The ability to integrate backend services with modern frontend applications.
+- A solid understanding of database management and migration strategies.
+- Familiarity with API documentation and testing tools like Postman.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+---
 
-### Premium Partners
+## Technologies Used
+- **PHP:** Version 8.x
+- **Laravel:** A powerful PHP framework for web applications
+- **MySQL/PostgreSQL:** Database management systems
+- **Postman:** For API testing and documentation
+- **Figma:** Used for frontend design (see UI Design section)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+---
 
-## Contributing
+## UI Design
+While this course primarily focuses on backend development, the frontend design has been meticulously crafted using Figma.  
+- **Figma Design:** [View the Figma project](https://www.figma.com/file/8TvM4UJfGOE334pySsOqZp)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+<img src="assets/ui.jpg" alt="UI Screenshot" width="900">
 
-## Code of Conduct
+Additionally, UI images are included in the repository to showcase the intended look and feel of the final application.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+---
 
-## Security Vulnerabilities
+## Resources
+Enhance your learning experience with the following resources:
+- **GitHub Repository:** [Ecommerce Backend API Course](https://github.com/sukhrobnurali/ecommerce-backend)
+- **YouTube Playlist:** [Course Videos](https://www.youtube.com/playlist?list=PLlvUmyq_t3vw9WMsVGtiMSXRw2N1Etg5w)
+- **Postman Documentation:** [API Documentation/Collection](https://documenter.getpostman.com/view/11570945/2sAYX9kfH2)
+- **Support Telegram Group:** [Join the Group](https://t.me/dasturchilar_hamjamiyati)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+---
+
+## Installation & Setup
+To set up this project locally, follow these steps:
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/sukhrobnurali/ecommerce-backend.git
+   cd ecommerce-backend
+   ```
+
+2. **Install Dependencies**
+   Ensure you have [Composer](https://getcomposer.org/) installed, then run:
+   ```bash
+   composer install
+   ```
+
+3. **Environment Configuration**
+   Copy the example environment file and adjust your settings:
+   ```bash
+   cp .env.example .env
+   ```
+   Edit the `.env` file to include your database credentials and other configuration details.
+
+4. **Generate Application Key**
+   ```bash
+   php artisan key:generate
+   ```
+
+5. **Run Migrations**
+   ```bash
+   php artisan migrate
+   ```
+
+6. **Start the Development Server**
+   ```bash
+   php artisan serve
+   ```
+   Access the application at `http://localhost:8000`.
+
+---
+
+## Demo
+For a live demonstration of the API endpoints, refer to the [Postman Collection](https://documenter.getpostman.com/view/11570945/2sAYX9kfH2).
+
+---
+
+## Support
+For questions, issues, or further discussions, please join our [Support Telegram Group](https://t.me/dasturchilar_hamjamiyati) or check out the detailed explanations in the [YouTube Playlist](https://www.youtube.com/playlist?list=PLlvUmyq_t3vw9WMsVGtiMSXRw2N1Etg5w).
+
+---
 
 ## License
+This project is licensed under the [MIT License](LICENSE).
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+---
+
+## Author
+Developed by [Sukhrob Nurali](https://github.com/sukhrobnurali).  
+Feel free to explore my other projects and contributions on my GitHub profile.
+
+---
+
+Contributions, suggestions, or constructive feedback are always welcome.
